@@ -1,0 +1,28 @@
+{
+  "name": "mean-first",
+  "version": "1.0.0",
+  "description": "mean-first",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Posonskiy/MEAN-Stack-With-Angular-2.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack",
+    "Angular",
+    "2"
+  ],
+  "author": "Alex Posonskiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Posonskiy/MEAN-Stack-With-Angular-2/issues"
+  },
+  "homepage": "https://github.com/Posonskiy/MEAN-Stack-With-Angular-2#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
